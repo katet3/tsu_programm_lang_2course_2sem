@@ -1,0 +1,5 @@
+/home/how/projekt/C++/lab/course2_2sem/list/obj/Debug/net6.0/list.csproj.AssemblyReference.cache
+/home/how/projekt/C++/lab/course2_2sem/list/obj/Debug/net6.0/list.GeneratedMSBuildEditorConfig.editorconfig
+/home/how/projekt/C++/lab/course2_2sem/list/obj/Debug/net6.0/list.AssemblyInfoInputs.cache
+/home/how/projekt/C++/lab/course2_2sem/list/obj/Debug/net6.0/list.AssemblyInfo.cs
+/home/how/projekt/C++/lab/course2_2sem/list/obj/Debug/net6.0/list.csproj.CoreCompileInputs.cache
